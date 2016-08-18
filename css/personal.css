@@ -1,0 +1,25 @@
+.navbar-startup .navbar-brand {
+ padding-top: 10px;
+}
+
+.project img {
+  min-width: 100%;
+}
+#history
+{
+    background-color: #555;
+}
+#history .section-header 
+{
+    color: white;
+}
+.event
+{
+    background-color: white;
+}
+.social-icons .fa-phone
+{
+    font-size: 20px;
+}
+
+
